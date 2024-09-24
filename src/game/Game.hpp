@@ -1,3 +1,6 @@
+#ifndef SAFE_GAME
+#define SAFE_GAME
+
 #include <stdio.h>
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
@@ -19,3 +22,5 @@ private:
 	std::vector<GameEntity*> entitys;
 	
 };
+
+#endif

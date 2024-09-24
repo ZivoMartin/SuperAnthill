@@ -1,6 +1,5 @@
-#include "game.hpp"
-#include "stdio.h"
-#include "game_entity.hpp"
+#include "Game.hpp"
+#include "GameEntity.hpp"
 #include <algorithm>
 
 Game::Game() {}

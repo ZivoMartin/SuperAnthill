@@ -1,0 +1,6 @@
+Implemanter:
+    - Une classe Game qui va posseder la main loop et toutes les entitée
+    - Une classe GameEntity qui doit pouvoir se render
+    - Une classe Fourmis capable de se deplacer et de s'afficher
+    - Une event loop qui render les GameEntity
+    - Créer une fenêtre SDL
